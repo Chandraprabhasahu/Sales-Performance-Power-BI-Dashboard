@@ -78,6 +78,17 @@ The project uses **four different datasets**, simulating a real-world business s
 
 ---
 
+
+## 📊 Dashboard Preview
+
+![Sales Performance Dashboard](./images/Sales_dashboard.png)
+
+![Customer details Dashboard](./images/Customer_details.png)
+
+
+
+---
+
 ##  Project Structure
 
 ```bash

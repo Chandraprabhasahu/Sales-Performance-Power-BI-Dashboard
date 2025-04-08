@@ -33,11 +33,11 @@ The project uses **four different datasets**, simulating a real-world business s
 ## Analytical Approach
 - **Data Cleaning & Transformation**: Performed using Excel to ensure consistency in product IDs, categories, and date formats.
 
--**Data Modeling**: Built relationships across all four datasets using Power BI’s data model.
+- **Data Modeling**: Built relationships across all four datasets using Power BI’s data model.
 
--**KPI Creation**: Used DAX to derive new insights such as profit margin, discount percentage, return ratio, and top-performing categories.
+- **KPI Creation**: Used DAX to derive new insights such as profit margin, discount percentage, return ratio, and top-performing categories.
 
--**Visualization**: Created slicers and filters to dynamically explore performance by demographic and geographic dimensions.
+- **Visualization**: Created slicers and filters to dynamically explore performance by demographic and geographic dimensions.
 
 
 ---

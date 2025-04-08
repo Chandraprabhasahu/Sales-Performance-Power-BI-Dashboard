@@ -79,7 +79,7 @@ The project uses **four different datasets**, simulating a real-world business s
 ---
 
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Sales Performance Dashboard](./images/Sales_dashboard.png)
 
@@ -101,7 +101,7 @@ The project uses **four different datasets**, simulating a real-world business s
 │   ├── product_data.csv
 │   ├── customer_data.csv
 │   └── returns_data.csv
-├──  Project_Report.pdf 
+
 ```
 
 ---

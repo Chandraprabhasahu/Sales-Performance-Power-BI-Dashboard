@@ -94,13 +94,13 @@ The project uses **four different datasets**, simulating a real-world business s
 
 ##  Dashboard Preview
 
-### Sales Analysis Dashboard
+
 ![Sales Performance Dashboard](./images/Dashboard.png)
 
-### Customer Details
+
 ![Customer details Dashboard](./images/Customer_details.png)
 
-### Product Details
+
 ![Product details Dashboard](./images/Product_details.png)
 
 
